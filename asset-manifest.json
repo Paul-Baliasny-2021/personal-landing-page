@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-landing-page/static/css/main.3386f1f9.css",
-    "main.js": "/personal-landing-page/static/js/main.e0a81003.js",
+    "main.css": "/personal-landing-page/static/css/main.a38d1640.css",
+    "main.js": "/personal-landing-page/static/js/main.3d8a7b46.js",
     "static/js/787.88012170.chunk.js": "/personal-landing-page/static/js/787.88012170.chunk.js",
     "static/media/man at work.jpg": "/personal-landing-page/static/media/man at work.ed8b1640fc0ff0f4f6f8.jpg",
     "static/media/slider.jpg": "/personal-landing-page/static/media/slider.700b9ffee6e84f0eae9a.jpg",
@@ -13,6 +13,7 @@
     "static/media/certificate.jpeg": "/personal-landing-page/static/media/certificate.e762ee2aa6c90766254b.jpeg",
     "static/media/Me4.png": "/personal-landing-page/static/media/Me4.c9ff7dd2ed79eaf42a1b.png",
     "static/media/supportUkr.png": "/personal-landing-page/static/media/supportUkr.0ae3aebd06fe641ca372.png",
+    "static/media/CV_Pavel_Baliasny.pdf": "/personal-landing-page/static/media/CV_Pavel_Baliasny.3ee62244f1c1ecd83df9.pdf",
     "static/media/address.png": "/personal-landing-page/static/media/address.a01cb8cc428702f30bec.png",
     "static/media/email.png": "/personal-landing-page/static/media/email.a49e015815e3ac6d2bd3.png",
     "static/media/sun.png": "/personal-landing-page/static/media/sun.f794832ad72b90c61eb7.png",
@@ -21,12 +22,12 @@
     "static/media/github.svg": "/personal-landing-page/static/media/github.c2b3aafb690f1f648519b7a447381788.svg",
     "index.html": "/personal-landing-page/index.html",
     "static/media/CloseIcon.svg": "/personal-landing-page/static/media/CloseIcon.1f0b5bb9b7f510e19098a3ca6de1cdc3.svg",
-    "main.3386f1f9.css.map": "/personal-landing-page/static/css/main.3386f1f9.css.map",
-    "main.e0a81003.js.map": "/personal-landing-page/static/js/main.e0a81003.js.map",
+    "main.a38d1640.css.map": "/personal-landing-page/static/css/main.a38d1640.css.map",
+    "main.3d8a7b46.js.map": "/personal-landing-page/static/js/main.3d8a7b46.js.map",
     "787.88012170.chunk.js.map": "/personal-landing-page/static/js/787.88012170.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3386f1f9.css",
-    "static/js/main.e0a81003.js"
+    "static/css/main.a38d1640.css",
+    "static/js/main.3d8a7b46.js"
   ]
 }
